@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center"><img src=https://i.imgur.com/bEND4sA.png><b>aspiring artist / developer</span></b><hr>
+<li><a href="https://github.com/ohm002/Map-Merger"><b>Main Project<b></a></li>
+ </p>
 
 <!--
 **ohm002/ohm002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
