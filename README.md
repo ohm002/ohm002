@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/NICc5J8.jpeg)
 
-**Artist / Developer**
+**Artist / Developer / Composer**
 
 <hr>
 
